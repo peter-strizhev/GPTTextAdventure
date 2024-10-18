@@ -1,0 +1,16 @@
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\bin\Debug\net5.0\GPTChatAdventure.exe
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\bin\Debug\net5.0\GPTChatAdventure.deps.json
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\bin\Debug\net5.0\GPTChatAdventure.runtimeconfig.json
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\bin\Debug\net5.0\GPTChatAdventure.runtimeconfig.dev.json
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\bin\Debug\net5.0\GPTChatAdventure.dll
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\bin\Debug\net5.0\ref\GPTChatAdventure.dll
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\bin\Debug\net5.0\GPTChatAdventure.pdb
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.csprojAssemblyReference.cache
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.AssemblyInfoInputs.cache
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.AssemblyInfo.cs
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.dll
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\ref\GPTChatAdventure.dll
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.pdb
+C:\Users\Striz\Desktop\GPTTextAdventure\GPTTextAdventure\GPTChatAdventure\obj\Debug\net5.0\GPTChatAdventure.genruntimeconfig.cache
