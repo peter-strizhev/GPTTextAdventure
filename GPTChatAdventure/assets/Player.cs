@@ -10,8 +10,8 @@ namespace GPTChatAdventure.assets
     {
         public string Name { get; set; }
         public int Health { get; set; } = 100;
-        // Stretch to add inventory, just an array of items
-        
+        public List<string> Inventory { get; set; } = new List<string>();
+
         public Player(string name)
         {
             Name = name;
@@ -21,7 +21,7 @@ namespace GPTChatAdventure.assets
         {
             Console.WriteLine($"Player: {Name}");
             Console.WriteLine($"Health: {Health}");
-            // Display inventory eventually
+            Console.WriteLine("Enemies in Room: " + (Inventory.Count > 0 ? string.Join(", ", Inventory) : "None"));
         }
     }
 }
